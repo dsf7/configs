@@ -1,5 +1,5 @@
 server:
-  port: ${PORT:8078}
+  port: 8078
 spring:
   datasource:
     url: jdbc:h2:mem:mydb
